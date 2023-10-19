@@ -1,0 +1,390 @@
+.home {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 3367px;
+  position: relative;
+}
+
+.home .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 232px;
+  top: 968px;
+  left: 0;
+  background-color: #191919;
+}
+
+.home .text-wrapper {
+  position: absolute;
+  width: 1288px;
+  top: 37px;
+  left: 0;
+  font-family: "mariana-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .icon-arrow-downward {
+  position: absolute;
+  width: 127px;
+  height: 154px;
+  top: 40px;
+  left: 1186px;
+}
+
+.home .overlap {
+  position: absolute;
+  width: 1288px;
+  height: 851px;
+  top: 117px;
+  left: 76px;
+}
+
+.home .overlap-2 {
+  position: absolute;
+  width: 1288px;
+  height: 851px;
+  top: 0;
+  left: 0;
+}
+
+.home .rectangle {
+  position: absolute;
+  width: 619px;
+  height: 730px;
+  top: 121px;
+  left: 335px;
+  object-fit: cover;
+}
+
+.home .text-wrapper-2 {
+  position: absolute;
+  width: 1288px;
+  top: 0;
+  left: 0;
+  font-family: "mariana-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 200px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .text-wrapper-3 {
+  position: absolute;
+  width: 275px;
+  top: 457px;
+  left: 24px;
+  font-family: "Luxurious Roman", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .text-wrapper-4 {
+  position: absolute;
+  width: 298px;
+  top: 457px;
+  left: 990px;
+  font-family: "Luxurious Roman", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .img {
+  position: absolute;
+  width: 634px;
+  height: 525px;
+  top: 1265px;
+  left: 764px;
+}
+
+.home .overlap-3 {
+  position: absolute;
+  width: 634px;
+  height: 577px;
+  top: 1238px;
+  left: 43px;
+}
+
+.home .rectangle-2 {
+  position: absolute;
+  width: 634px;
+  height: 448px;
+  top: 0;
+  left: 0;
+}
+
+.home .ambicare-UI-UX {
+  position: absolute;
+  width: 617px;
+  top: 447px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 59.1px;
+}
+
+.home .span {
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 59.1px;
+}
+
+.home .text-wrapper-5 {
+  font-size: 24px;
+  line-height: 39.4px;
+}
+
+.home .overlap-4 {
+  position: absolute;
+  width: 1461px;
+  height: 322px;
+  top: 3045px;
+  left: -11px;
+  background-color: #191919;
+}
+
+.home .overlap-5 {
+  position: absolute;
+  width: 250px;
+  height: 199px;
+  top: 64px;
+  left: 205px;
+}
+
+.home .text-wrapper-6 {
+  position: absolute;
+  width: 200px;
+  top: 0;
+  left: 34px;
+  color: #ffffff;
+  font-size: 128px;
+  font-family: "Magic Retro-Regular", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .text-wrapper-7 {
+  position: absolute;
+  width: 250px;
+  top: 141px;
+  left: 0;
+  font-family: "Lato", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .icon-instagram-alt {
+  position: absolute;
+  width: 75px;
+  height: 75px;
+  top: 123px;
+  left: 1052px;
+}
+
+.home .icon-rounded {
+  position: absolute;
+  width: 75px;
+  height: 75px;
+  top: 123px;
+  left: 1142px;
+}
+
+.home .icon-pinterest-fill {
+  position: absolute;
+  width: 75px;
+  height: 75px;
+  top: 123px;
+  left: 1232px;
+}
+
+.home .text-wrapper-8 {
+  position: absolute;
+  width: 470px;
+  top: 86px;
+  left: 496px;
+  font-family: "Inria Serif", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 80px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-9 {
+  position: absolute;
+  width: 340px;
+  top: 177px;
+  left: 561px;
+  font-family: "Inria Serif", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .isshin-sushi-house {
+  position: absolute;
+  width: 634px;
+  top: 1804px;
+  left: 764px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 59.1px;
+}
+
+.home .rectangle-3 {
+  position: absolute;
+  width: 592px;
+  height: 345px;
+  top: 1859px;
+  left: 43px;
+}
+
+.home .hypnos-hemp-brand {
+  position: absolute;
+  width: 595px;
+  top: 2214px;
+  left: 43px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 59.1px;
+}
+
+.home .rectangle-4 {
+  position: absolute;
+  width: 634px;
+  height: 388px;
+  top: 1977px;
+  left: 764px;
+}
+
+.home .univers-type {
+  position: absolute;
+  width: 423px;
+  top: 2379px;
+  left: 764px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 59.1px;
+}
+
+.home .rectangle-5 {
+  position: absolute;
+  width: 634px;
+  height: 388px;
+  top: 2400px;
+  left: 43px;
+}
+
+.home .client-work-scott {
+  position: absolute;
+  width: 631px;
+  top: 2798px;
+  left: 43px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 59.1px;
+}
+
+.home .rectangle-6 {
+  position: fixed;
+  width: 1440px;
+  height: 126px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.home .text-wrapper-10 {
+  position: fixed;
+  width: 212px;
+  top: 40px;
+  left: 92px;
+  font-family: "Inria Serif", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-11 {
+  position: fixed;
+  width: 138px;
+  top: 16px;
+  left: 650px;
+  color: #000000;
+  font-size: 75px;
+  font-family: "Magic Retro-Regular", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .text-wrapper-12 {
+  position: fixed;
+  width: 212px;
+  top: 36px;
+  left: 1136px;
+  font-family: "Inria Serif", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}

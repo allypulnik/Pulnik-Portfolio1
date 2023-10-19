@@ -1,0 +1,596 @@
+.project-page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .project-page .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 7388px;
+    position: relative;
+  }
+  
+  .project-page .overlap {
+    position: absolute;
+    width: 1313px;
+    height: 1565px;
+    top: 5078px;
+    left: 57px;
+  }
+  
+  .project-page .overlap-group {
+    position: absolute;
+    width: 1313px;
+    height: 1565px;
+    top: 0;
+    left: 0;
+  }
+  
+  .project-page .rectangle {
+    position: absolute;
+    width: 947px;
+    height: 831px;
+    top: 600px;
+    left: 174px;
+    object-fit: cover;
+  }
+  
+  .project-page .img {
+    position: absolute;
+    width: 544px;
+    height: 667px;
+    top: 0;
+    left: 81px;
+    object-fit: cover;
+  }
+  
+  .project-page .text-wrapper {
+    position: absolute;
+    width: 756px;
+    top: 1289px;
+    left: 321px;
+    font-family: "Lato-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .project-page .text-wrapper-2 {
+    position: absolute;
+    width: 735px;
+    top: 1430px;
+    left: 92px;
+    font-family: "mariana-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 80px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .project-page .line {
+    width: 1313px;
+    top: 1385px;
+    left: 0;
+    position: absolute;
+    height: 2px;
+  }
+  
+  .project-page .rectangle-2 {
+    position: absolute;
+    width: 661px;
+    height: 368px;
+    top: 0;
+    left: 641px;
+    object-fit: cover;
+  }
+  
+  .project-page .final-UI-this-is-the {
+    position: absolute;
+    width: 500px;
+    top: 405px;
+    left: 656px;
+    font-family: "Lato-Bold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .project-page .span {
+    font-weight: 700;
+  }
+  
+  .project-page .text-wrapper-3 {
+    font-weight: 700;
+    font-size: 36px;
+  }
+  
+  .project-page .text-wrapper-4 {
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 18px;
+  }
+  
+  .project-page .rectangle-3 {
+    position: absolute;
+    width: 775px;
+    height: 347px;
+    top: 1540px;
+    left: 58px;
+  }
+  
+  .project-page .rectangle-4 {
+    position: absolute;
+    width: 1103px;
+    height: 586px;
+    top: 2958px;
+    left: 164px;
+    object-fit: cover;
+  }
+  
+  .project-page .rectangle-5 {
+    position: absolute;
+    width: 775px;
+    height: 347px;
+    top: 2270px;
+    left: 58px;
+  }
+  
+  .project-page .rectangle-6 {
+    position: absolute;
+    width: 649px;
+    height: 292px;
+    top: 3584px;
+    left: 725px;
+    object-fit: cover;
+  }
+  
+  .project-page .rectangle-7 {
+    position: absolute;
+    width: 626px;
+    height: 292px;
+    top: 3584px;
+    left: 75px;
+    object-fit: cover;
+  }
+  
+  .project-page .rectangle-8 {
+    position: absolute;
+    width: 775px;
+    height: 347px;
+    top: 1905px;
+    left: 531px;
+  }
+  
+  .project-page .project-title {
+    position: absolute;
+    width: 423px;
+    top: 2023px;
+    left: -1897px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 39.4px;
+  }
+  
+  .project-page .overlap-group-2 {
+    position: absolute;
+    width: 1288px;
+    height: 1241px;
+    top: 120px;
+    left: 81px;
+  }
+  
+  .project-page .flexcontainer {
+    gap: 17px;
+    width: 749px;
+    height: 166px;
+    top: 879px;
+    left: 265px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+  }
+  
+  .project-page .text {
+    position: relative;
+    align-self: stretch;
+    font-family: "Lato-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .project-page .text-wrapper-5 {
+    font-family: "Lato-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+  }
+  
+  .project-page .rectangle-9 {
+    position: absolute;
+    width: 1069px;
+    height: 695px;
+    top: 224px;
+    left: 59px;
+  }
+  
+  .project-page .text-wrapper-6 {
+    position: absolute;
+    width: 1288px;
+    top: 0;
+    left: 0;
+    font-family: "mariana-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 200px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .project-page .ambicare-is-an {
+    position: absolute;
+    width: 749px;
+    top: 1043px;
+    left: 265px;
+    font-family: "Lato-Bold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .project-page .line-2 {
+    width: 743px;
+    top: 1013px;
+    left: 268px;
+    position: absolute;
+    height: 2px;
+  }
+  
+  .project-page .overlap-2 {
+    position: absolute;
+    width: 1233px;
+    height: 167px;
+    top: 2772px;
+    left: 107px;
+  }
+  
+  .project-page .p {
+    position: absolute;
+    width: 756px;
+    top: 68px;
+    left: 477px;
+    font-family: "Lato-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .project-page .text-wrapper-7 {
+    position: absolute;
+    width: 483px;
+    top: 0;
+    left: 0;
+    font-family: "mariana-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 100px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .project-page .text-wrapper-8 {
+    position: absolute;
+    width: 756px;
+    top: 4609px;
+    left: 347px;
+    font-family: "Lato-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .project-page .text-wrapper-9 {
+    position: absolute;
+    width: 483px;
+    top: 1392px;
+    left: 124px;
+    font-family: "mariana-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 100px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .project-page .overlap-3 {
+    position: absolute;
+    width: 1461px;
+    height: 739px;
+    top: 6649px;
+    left: -17px;
+  }
+  
+  .project-page .what-we-learned {
+    position: absolute;
+    width: 1082px;
+    top: 0;
+    left: 196px;
+    font-family: "Lato-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .project-page .rectangle-10 {
+    position: absolute;
+    width: 1461px;
+    height: 322px;
+    top: 417px;
+    left: 0;
+    background-color: #191919;
+  }
+  
+  .project-page .text-wrapper-10 {
+    position: absolute;
+    width: 200px;
+    top: 481px;
+    left: 239px;
+    font-family: "Magic Retro-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 128px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .project-page .text-wrapper-11 {
+    position: absolute;
+    width: 250px;
+    top: 622px;
+    left: 205px;
+    font-family: "Lato-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .project-page .icon-instagram-alt {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    top: 540px;
+    left: 1052px;
+  }
+  
+  .project-page .icon-rounded {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    top: 540px;
+    left: 1142px;
+  }
+  
+  .project-page .icon-pinterest-fill {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    top: 540px;
+    left: 1232px;
+  }
+  
+  .project-page .text-wrapper-12 {
+    position: absolute;
+    width: 470px;
+    top: 503px;
+    left: 496px;
+    font-family: "Inria Serif-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 80px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .project-page .text-wrapper-13 {
+    position: absolute;
+    width: 340px;
+    top: 594px;
+    left: 561px;
+    font-family: "Inria Serif-Italic", Helvetica;
+    font-weight: 400;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .project-page .flexcontainer-2 {
+    gap: 12px;
+    width: 443px;
+    height: 263px;
+    top: 1539px;
+    left: 863px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+  }
+  
+  .project-page .span-wrapper {
+    position: relative;
+    align-self: stretch;
+    font-family: "Lato-Bold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .project-page .flexcontainer-3 {
+    gap: 12px;
+    width: 301px;
+    height: 151px;
+    top: 1904px;
+    left: 205px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+  }
+  
+  .project-page .flexcontainer-4 {
+    gap: 12px;
+    width: 443px;
+    height: 165px;
+    top: 2269px;
+    left: 863px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+  }
+  
+  .project-page .line-3 {
+    width: 1313px;
+    top: 2718px;
+    left: 58px;
+    position: absolute;
+    height: 2px;
+  }
+  
+  .project-page .user-journey-UI {
+    position: absolute;
+    width: 1281px;
+    top: 4013px;
+    left: 132px;
+    font-family: "mariana-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 80px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .project-page .line-4 {
+    width: 1313px;
+    top: 3966px;
+    left: 68px;
+    position: absolute;
+    height: 2px;
+  }
+  
+  .project-page .rectangle-11 {
+    position: absolute;
+    width: 1152px;
+    height: 386px;
+    top: 4677px;
+    left: 149px;
+    object-fit: cover;
+  }
+  
+  .project-page .rectangle-12 {
+    position: absolute;
+    width: 783px;
+    height: 397px;
+    top: 4180px;
+    left: 37px;
+    object-fit: cover;
+  }
+  
+  .project-page .rectangle-13 {
+    position: absolute;
+    width: 514px;
+    height: 391px;
+    top: 4182px;
+    left: 844px;
+  }
+  
+  .project-page .rectangle-14 {
+    position: fixed;
+    width: 1440px;
+    height: 126px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+  }
+  
+  .project-page .text-wrapper-14 {
+    position: fixed;
+    width: 212px;
+    top: 64px;
+    left: 91px;
+    font-family: "Inria Serif-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .project-page .text-wrapper-15 {
+    position: fixed;
+    width: 138px;
+    top: 31px;
+    left: 651px;
+    font-family: "Magic Retro-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 75px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .project-page .text-wrapper-16 {
+    position: fixed;
+    width: 212px;
+    top: 64px;
+    left: 1135px;
+    font-family: "Inria Serif-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  
+  
